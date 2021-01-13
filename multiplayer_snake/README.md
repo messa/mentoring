@@ -7,7 +7,7 @@ Základy programování se sítí
 Materiály:
 
 - https://docs.python.org/3/howto/sockets.html
-- https://docs.python.org/3/library/socket.html
+- https://docs.python.org/3/library/socket.html – viz zejména [Example](https://docs.python.org/3/library/socket.html#example)
 - Bonus: https://realpython.com/python-sockets/
 
 Zkus si v Pythonu vytvořit server a klient a zkus si komunikaci mezi nimi.
