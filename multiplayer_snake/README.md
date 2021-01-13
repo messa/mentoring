@@ -25,6 +25,18 @@ Zkus kód v předchozí části předělat do asyncio.
 Důvodem k použití asyncio je možnost nějak relativně snadno řešit komunikaci s více klienty (anebo servery) najednou, což v serveru pro multiplayer hru bude potřeba.
 
 
+Had
+---
+
+V základu jde o úlohu z Pyladies kurzu: https://naucse.python.cz/2020/pyladies-praha-podzim2020/projects/snake/
+
+Pomocné materiály:
+
+- https://pyvec.github.io/cheatsheets/pyglet/pyglet-basics-cs.pdf
+
+Doporučuji vyzkoušet si nejdříve úpravu hry tak, aby v ní mohlo být více hadů.
+
+
 Had po síti
 -----------
 
