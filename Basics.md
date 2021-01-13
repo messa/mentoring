@@ -7,7 +7,9 @@ Basics
 Linux command line
 ------------------
 
-Také se týká macOS a WSL.
+Zejména bash. Také se týká macOS a WSL.
 
 https://lukasbarinka.gitlab.io/shell-programming/
+
+https://naucse.python.cz/2020/linux-admin/
 
