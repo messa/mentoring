@@ -12,6 +12,8 @@ Materiály:
 
 Zkus si v Pythonu vytvořit server a klient a zkus si komunikaci mezi nimi.
 
+Materiál k řetězcům, byte řetězcům a kódování: https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+
 
 Síťové programování v Asyncio
 -----------------------------
