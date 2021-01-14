@@ -18,6 +18,7 @@ Síťové programování v Asyncio
 
 Materiály:
 
+- https://naucse.python.cz/course/mi-pyt/intro/async/
 - https://docs.python.org/3/library/asyncio-stream.html
 
 Zkus kód v předchozí části předělat do asyncio.
